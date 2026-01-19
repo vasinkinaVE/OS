@@ -1,0 +1,25 @@
+=== Cross-platform background runner library test ===
+
+Test 1: Running command 'echo Hello World'
+Hello World
+Exit code: 0
+
+Test 2: Running command with error
+Exit code: 42
+
+Test 3: Checking background execution
+Process started in background. Checking status...
+Process is still running...
+Process is still running...
+Process is still running...
+Process is still running...
+Process finished!
+Exit code: 0
+
+Test 4: Running multiple processes
+Process A
+Process B
+Exit code Process A: 0
+Exit code Process B: 0
+
+All tests passed successfully!
