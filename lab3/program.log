@@ -1,0 +1,205 @@
+30596
+[2026-01-20 19:19:40.699] [PID: 27108] Process started
+[2026-01-20 19:19:40.702] [PID: 27108] Counter value: 1
+[2026-01-20 19:19:40.736] [PID: 24904] Child process 1 started
+[2026-01-20 19:19:40.739] [PID: 24904] Child process 1: counter increased by 10 (new value: 11)
+[2026-01-20 19:19:40.740] [PID: 24904] Child process 1 exiting
+[2026-01-20 19:19:40.767] [PID: 24616] Child process 2 started
+[2026-01-20 19:19:40.769] [PID: 24616] Child process 2: counter doubled (new value: 22)
+[2026-01-20 19:19:41.704] [PID: 27108] Counter value: 25
+[2026-01-20 19:19:42.720] [PID: 27108] Counter value: 28
+[2026-01-20 19:19:42.769] [PID: 24616] Child process 2: counter halved (new value: 14)
+[2026-01-20 19:19:42.770] [PID: 24616] Child process 2 exiting
+[2026-01-20 19:19:43.735] [PID: 27108] Counter value: 17
+[2026-01-20 19:19:43.812] [PID: 8032] Child process 1 started
+[2026-01-20 19:19:43.815] [PID: 8032] Child process 1: counter increased by 10 (new value: 27)
+[2026-01-20 19:19:43.815] [PID: 8032] Child process 1 exiting
+[2026-01-20 19:19:43.854] [PID: 7140] Child process 2 started
+[2026-01-20 19:19:43.856] [PID: 7140] Child process 2: counter doubled (new value: 56)
+[2026-01-20 19:19:43.915] [PID: 26796] Process started
+[2026-01-20 19:19:44.736] [PID: 27108] Counter value: 61
+[2026-01-20 19:19:45.751] [PID: 27108] Counter value: 68
+[2026-01-20 19:19:45.869] [PID: 7140] Child process 2: counter halved (new value: 34)
+[2026-01-20 19:19:45.870] [PID: 7140] Child process 2 exiting
+[2026-01-20 19:19:46.754] [PID: 27108] Counter value: 10
+[2026-01-20 19:19:46.908] [PID: 27600] Child process 1 started
+[2026-01-20 19:19:46.910] [PID: 27600] Child process 1: counter increased by 10 (new value: 20)
+[2026-01-20 19:19:46.911] [PID: 27600] Child process 1 exiting
+[2026-01-20 19:19:46.941] [PID: 25688] Child process 2 started
+[2026-01-20 19:19:46.943] [PID: 25688] Child process 2: counter doubled (new value: 40)
+[2026-01-20 19:19:47.770] [PID: 27108] Counter value: 46
+[2026-01-20 19:19:48.788] [PID: 27108] Counter value: 52
+[2026-01-20 19:19:48.950] [PID: 25688] Child process 2: counter halved (new value: 27)
+[2026-01-20 19:19:48.951] [PID: 25688] Child process 2 exiting
+[2026-01-20 19:19:49.797] [PID: 27108] Counter value: 32
+[2026-01-20 19:19:50.001] [PID: 25500] Child process 1 started
+[2026-01-20 19:19:50.003] [PID: 25500] Child process 1: counter increased by 10 (new value: 17)
+[2026-01-20 19:19:50.004] [PID: 25500] Child process 1 exiting
+[2026-01-20 19:19:50.036] [PID: 25244] Child process 2 started
+[2026-01-20 19:19:50.037] [PID: 25244] Child process 2: counter doubled (new value: 34)
+[2026-01-20 19:19:50.808] [PID: 27108] Counter value: 40
+[2026-01-20 19:19:51.822] [PID: 27108] Counter value: 46
+[2026-01-20 19:19:52.039] [PID: 25244] Child process 2: counter halved (new value: 24)
+[2026-01-20 19:19:52.041] [PID: 25244] Child process 2 exiting
+[2026-01-20 19:19:52.837] [PID: 27108] Counter value: 28
+[2026-01-20 19:19:53.085] [PID: 27124] Child process 1 started
+[2026-01-20 19:19:53.087] [PID: 27124] Child process 1: counter increased by 10 (new value: 40)
+[2026-01-20 19:19:53.087] [PID: 27124] Child process 1 exiting
+[2026-01-20 19:19:53.123] [PID: 14980] Child process 2 started
+[2026-01-20 19:19:53.125] [PID: 14980] Child process 2: counter doubled (new value: 80)
+[2026-01-20 19:19:53.839] [PID: 27108] Counter value: 85
+[2026-01-20 19:19:54.843] [PID: 27108] Counter value: 91
+[2026-01-20 19:19:55.122] [PID: 14980] Child process 2: counter halved (new value: 46)
+[2026-01-20 19:19:55.123] [PID: 14980] Child process 2 exiting
+[2026-01-20 19:19:55.169] [PID: 26796] Process exiting
+[2026-01-20 19:19:55.856] [PID: 27108] Counter value: 48
+[2026-01-20 19:19:56.176] [PID: 4304] Child process 1 started
+[2026-01-20 19:19:56.178] [PID: 4304] Child process 1: counter increased by 10 (new value: 59)
+[2026-01-20 19:19:56.179] [PID: 4304] Child process 1 exiting
+[2026-01-20 19:19:56.211] [PID: 27260] Child process 2 started
+[2026-01-20 19:19:56.213] [PID: 27260] Child process 2: counter doubled (new value: 118)
+[2026-01-20 19:19:56.857] [PID: 27108] Counter value: 120
+[2026-01-20 19:19:57.871] [PID: 27108] Counter value: 123
+[2026-01-20 19:19:58.217] [PID: 27260] Child process 2: counter halved (new value: 62)
+[2026-01-20 19:19:58.219] [PID: 27260] Child process 2 exiting
+[2026-01-20 19:19:59.218] [PID: 27108] Process exiting
+[2026-01-20 19:50:13.607] [PID: 28184] Process started
+[2026-01-20 19:50:13.609] [PID: 28184] Counter value: 1
+[2026-01-20 19:50:13.650] [PID: 27996] Child process 1 started
+[2026-01-20 19:50:13.653] [PID: 27996] Child process 1: counter increased by 10 (new value: 11)
+[2026-01-20 19:50:13.653] [PID: 27996] Child process 1 exiting
+[2026-01-20 19:50:13.684] [PID: 28380] Child process 2 started
+[2026-01-20 19:50:13.686] [PID: 28380] Child process 2: counter doubled (new value: 22)
+[2026-01-20 19:50:14.624] [PID: 28184] Counter value: 25
+[2026-01-20 19:50:15.640] [PID: 28184] Counter value: 28
+[2026-01-20 19:50:15.691] [PID: 28380] Child process 2: counter halved (new value: 14)
+[2026-01-20 19:50:15.692] [PID: 28380] Child process 2 exiting
+[2026-01-20 19:50:16.641] [PID: 28184] Counter value: 17
+[2026-01-20 19:50:16.754] [PID: 28636] Child process 1 started
+[2026-01-20 19:50:16.755] [PID: 28636] Child process 1: counter increased by 10 (new value: 28)
+[2026-01-20 19:50:16.756] [PID: 28636] Child process 1 exiting
+[2026-01-20 19:50:16.789] [PID: 14424] Process started
+[2026-01-20 19:50:16.816] [PID: 2704] Child process 2 started
+[2026-01-20 19:50:16.818] [PID: 2704] Child process 2: counter doubled (new value: 58)
+[2026-01-20 19:50:17.642] [PID: 28184] Counter value: 62
+[2026-01-20 19:50:18.644] [PID: 28184] Counter value: 69
+[2026-01-20 19:50:18.827] [PID: 2704] Child process 2: counter halved (new value: 35)
+[2026-01-20 19:50:18.828] [PID: 2704] Child process 2 exiting
+[2026-01-20 19:50:19.654] [PID: 28184] Counter value: 41
+[2026-01-20 19:50:19.892] [PID: 6656] Child process 1 started
+[2026-01-20 19:50:19.893] [PID: 6656] Child process 1: counter increased by 10 (new value: 52)
+[2026-01-20 19:50:19.894] [PID: 6656] Child process 1 exiting
+[2026-01-20 19:50:19.924] [PID: 27428] Child process 2 started
+[2026-01-20 19:50:19.926] [PID: 27428] Child process 2: counter doubled (new value: 104)
+[2026-01-20 19:50:20.664] [PID: 28184] Counter value: 109
+[2026-01-20 19:50:21.672] [PID: 28184] Counter value: 115
+[2026-01-20 19:50:21.939] [PID: 27428] Child process 2: counter halved (new value: 58)
+[2026-01-20 19:50:21.940] [PID: 27428] Child process 2 exiting
+[2026-01-20 19:50:22.679] [PID: 28184] Counter value: 62
+[2026-01-20 19:50:22.988] [PID: 28320] Child process 1 started
+[2026-01-20 19:50:22.990] [PID: 28320] Child process 1: counter increased by 10 (new value: 74)
+[2026-01-20 19:50:22.990] [PID: 28320] Child process 1 exiting
+[2026-01-20 19:50:23.032] [PID: 27984] Child process 2 started
+[2026-01-20 19:50:23.034] [PID: 27984] Child process 2: counter doubled (new value: 150)
+[2026-01-20 19:50:23.083] [PID: 14424] Process exiting
+[2026-01-20 19:50:23.685] [PID: 28184] Counter value: 152
+[2026-01-20 19:50:24.692] [PID: 28184] Counter value: 155
+[2026-01-20 19:50:25.035] [PID: 27984] Child process 2: counter halved (new value: 78)
+[2026-01-20 19:50:25.036] [PID: 27984] Child process 2 exiting
+[2026-01-20 19:50:25.708] [PID: 28184] Counter value: 80
+[2026-01-20 19:50:26.093] [PID: 19312] Child process 1 started
+[2026-01-20 19:50:26.095] [PID: 19312] Child process 1: counter increased by 10 (new value: 91)
+[2026-01-20 19:50:26.095] [PID: 19312] Child process 1 exiting
+[2026-01-20 19:50:26.121] [PID: 26556] Child process 2 started
+[2026-01-20 19:50:26.123] [PID: 26556] Child process 2: counter doubled (new value: 182)
+[2026-01-20 19:50:28.132] [PID: 26556] Child process 2: counter halved (new value: 92)
+[2026-01-20 19:50:28.134] [PID: 26556] Child process 2 exiting
+[2026-01-20 19:50:29.120] [PID: 28184] Process exiting
+[2026-01-20 20:42:10.347] [PID: 27704] Process started
+[2026-01-20 20:42:10.349] [PID: 27704] Counter value: 1
+[2026-01-20 20:42:10.395] [PID: 18408] Child process 1 started
+[2026-01-20 20:42:10.396] [PID: 18408] Child process 1: counter increased by 10 (new value: 11)
+[2026-01-20 20:42:10.397] [PID: 18408] Child process 1 exiting
+[2026-01-20 20:42:10.425] [PID: 15696] Child process 2 started
+[2026-01-20 20:42:10.426] [PID: 15696] Child process 2: counter doubled (new value: 22)
+[2026-01-20 20:42:11.350] [PID: 27704] Counter value: 25
+[2026-01-20 20:42:12.351] [PID: 27704] Counter value: 28
+[2026-01-20 20:42:12.427] [PID: 15696] Child process 2: counter halved (new value: 14)
+[2026-01-20 20:42:12.428] [PID: 15696] Child process 2 exiting
+[2026-01-20 20:42:13.351] [PID: 27704] Counter value: 17
+[2026-01-20 20:42:13.464] [PID: 29612] Child process 1 started
+[2026-01-20 20:42:13.466] [PID: 29612] Child process 1: counter increased by 10 (new value: 28)
+[2026-01-20 20:42:13.467] [PID: 29612] Child process 1 exiting
+[2026-01-20 20:42:13.500] [PID: 27828] Child process 2 started
+[2026-01-20 20:42:13.502] [PID: 27828] Child process 2: counter doubled (new value: 56)
+[2026-01-20 20:42:14.141] [PID: 28972] Process started
+[2026-01-20 20:42:14.352] [PID: 27704] Counter value: 59
+[2026-01-20 20:42:15.352] [PID: 27704] Counter value: 66
+[2026-01-20 20:42:15.503] [PID: 27828] Child process 2: counter halved (new value: 33)
+[2026-01-20 20:42:15.503] [PID: 27828] Child process 2 exiting
+[2026-01-20 20:42:16.354] [PID: 27704] Counter value: 39
+[2026-01-20 20:42:16.549] [PID: 28180] Child process 1 started
+[2026-01-20 20:42:16.551] [PID: 28180] Child process 1: counter increased by 10 (new value: 49)
+[2026-01-20 20:42:16.552] [PID: 28180] Child process 1 exiting
+[2026-01-20 20:42:16.606] [PID: 27992] Child process 2 started
+[2026-01-20 20:42:16.608] [PID: 27992] Child process 2: counter doubled (new value: 100)
+[2026-01-20 20:42:17.354] [PID: 27704] Counter value: 105
+[2026-01-20 20:42:18.355] [PID: 27704] Counter value: 111
+[2026-01-20 20:42:18.608] [PID: 27992] Child process 2: counter halved (new value: 56)
+[2026-01-20 20:42:18.610] [PID: 27992] Child process 2 exiting
+[2026-01-20 20:42:19.358] [PID: 27704] Counter value: 60
+[2026-01-20 20:42:19.677] [PID: 25740] Child process 1 started
+[2026-01-20 20:42:19.679] [PID: 25740] Child process 1: counter increased by 10 (new value: 72)
+[2026-01-20 20:42:19.679] [PID: 25740] Child process 1 exiting
+[2026-01-20 20:42:19.715] [PID: 29124] Child process 2 started
+[2026-01-20 20:42:19.717] [PID: 29124] Child process 2: counter doubled (new value: 146)
+[2026-01-20 20:42:20.359] [PID: 27704] Counter value: 150
+[2026-01-20 20:42:21.359] [PID: 27704] Counter value: 157
+[2026-01-20 20:42:21.717] [PID: 29124] Child process 2: counter halved (new value: 79)
+[2026-01-20 20:42:21.718] [PID: 29124] Child process 2 exiting
+[2026-01-20 20:42:22.712] [PID: 27704] Process exiting
+[2026-01-20 20:42:26.945] [PID: 28972] Process exiting
+[2026-01-20 21:10:06.374] [PID: 30596] Process started
+[2026-01-20 21:10:06.378] [PID: 30596] Counter value: 1
+[2026-01-20 21:10:06.428] [PID: 11924] Child process 1 started
+[2026-01-20 21:10:06.432] [PID: 11924] Child process 1: counter increased by 10 (new value: 11)
+[2026-01-20 21:10:06.433] [PID: 11924] Child process 1 exiting
+[2026-01-20 21:10:06.471] [PID: 28864] Child process 2 started
+[2026-01-20 21:10:06.472] [PID: 28864] Child process 2: counter doubled (new value: 22)
+[2026-01-20 21:10:07.378] [PID: 30596] Counter value: 25
+[2026-01-20 21:10:08.083] [PID: 29760] Process started
+[2026-01-20 21:10:08.379] [PID: 30596] Counter value: 29
+[2026-01-20 21:10:08.473] [PID: 28864] Child process 2: counter halved (new value: 15)
+[2026-01-20 21:10:08.474] [PID: 28864] Child process 2 exiting
+[2026-01-20 21:10:09.380] [PID: 30596] Counter value: 21
+[2026-01-20 21:10:09.528] [PID: 4996] Child process 1 started
+[2026-01-20 21:10:09.530] [PID: 4996] Child process 1: counter increased by 10 (new value: 32)
+[2026-01-20 21:10:09.530] [PID: 4996] Child process 1 exiting
+[2026-01-20 21:10:09.561] [PID: 25432] Child process 2 started
+[2026-01-20 21:10:09.563] [PID: 25432] Child process 2: counter doubled (new value: 64)
+[2026-01-20 21:10:10.380] [PID: 30596] Counter value: 69
+[2026-01-20 21:10:11.381] [PID: 30596] Counter value: 76
+[2026-01-20 21:10:11.564] [PID: 25432] Child process 2: counter halved (new value: 38)
+[2026-01-20 21:10:11.564] [PID: 25432] Child process 2 exiting
+[2026-01-20 21:10:12.149] [PID: 29760] Process exiting
+[2026-01-20 21:10:12.382] [PID: 30596] Counter value: 42
+[2026-01-20 21:10:12.599] [PID: 30052] Child process 1 started
+[2026-01-20 21:10:12.601] [PID: 30052] Child process 1: counter increased by 10 (new value: 52)
+[2026-01-20 21:10:12.601] [PID: 30052] Child process 1 exiting
+[2026-01-20 21:10:12.634] [PID: 29988] Child process 2 started
+[2026-01-20 21:10:12.636] [PID: 29988] Child process 2: counter doubled (new value: 106)
+[2026-01-20 21:10:13.383] [PID: 30596] Counter value: 108
+[2026-01-20 21:10:14.383] [PID: 30596] Counter value: 111
+[2026-01-20 21:10:14.638] [PID: 29988] Child process 2: counter halved (new value: 56)
+[2026-01-20 21:10:14.638] [PID: 29988] Child process 2 exiting
+[2026-01-20 21:10:15.385] [PID: 30596] Counter value: 58
+[2026-01-20 21:10:15.697] [PID: 30200] Child process 1 started
+[2026-01-20 21:10:15.699] [PID: 30200] Child process 1: counter increased by 10 (new value: 69)
+[2026-01-20 21:10:15.699] [PID: 30200] Child process 1 exiting
+[2026-01-20 21:10:15.739] [PID: 30172] Child process 2 started
+[2026-01-20 21:10:15.741] [PID: 30172] Child process 2: counter doubled (new value: 138)
+[2026-01-20 21:10:16.386] [PID: 30596] Counter value: 141
+[2026-01-20 21:10:17.388] [PID: 30596] Counter value: 144
+[2026-01-20 21:10:17.743] [PID: 30172] Child process 2: counter halved (new value: 72)
+[2026-01-20 21:10:17.743] [PID: 30172] Child process 2 exiting
+[2026-01-20 21:10:18.733] [PID: 30596] Process exiting
