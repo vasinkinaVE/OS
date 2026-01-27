@@ -1,0 +1,8 @@
+build/
+logs/
+output/
+CMakeLists.txt
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
